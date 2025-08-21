@@ -207,7 +207,7 @@ device = {
     'fbdm': fbdm,
 }
 
-ua = '[FBAN/FB4A;FBAV/77.0.0.20.66;FBBV/30034644;FBDM/{density=1.5,width=480,height=854};FBLC/en_US;FBCR/Etisalat NG;FBMF/TECNO;FBBD/TECNO;FBPN/com.facebook.katana;FBDV/TECNO-W3;FBSV/6.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]'
+ua = '[FBAN/FB4A;FBAV/309.0.0.47.119;FBBV/277444756;FBDM/{density=3.0,width=1080,height=1920};FBLC/de_DE;FBRV/279865282;FBCR/Willkommen;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G930F;FBSV/8.0.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]'
 
 
 # ===================================================================
@@ -495,3 +495,4 @@ if __name__ == '__main__':
     except Exception as e:
         print(f'\n\x1b[91;1m   ➤ Error: {str(e)}\x1b[97;1m')
         sys.exit()
+

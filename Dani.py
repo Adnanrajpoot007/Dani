@@ -496,3 +496,4 @@ if __name__ == '__main__':
         print(f'\n\x1b[91;1m   ➤ Error: {str(e)}\x1b[97;1m')
 
         sys.exit()
+

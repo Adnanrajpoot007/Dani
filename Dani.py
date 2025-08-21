@@ -207,7 +207,7 @@ device = {
     'fbdm': fbdm,
 }
 
-ua = '[FBAN/FB4A;FBAV/309.0.0.47.119;FBBV/277444756;FBDM/{density=3.0,width=1080,height=1920};FBLC/de_DE;FBRV/279865282;FBCR/Willkommen;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G930F;FBSV/8.0.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]'
+ua = '[FBAN/FB4A;FBAV/77.0.0.20.66;FBBV/30034644;FBDM/{density=1.5,width=480,height=854};FBLC/en_US;FBCR/Etisalat NG;FBMF/TECNO;FBBD/TECNO;FBPN/com.facebook.katana;FBDV/TECNO-W3;FBSV/6.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]'
 
 
 # ===================================================================
@@ -240,15 +240,15 @@ ________________(-RANA-)__________________
 \x1b[1;92mR  RR A  A  JJJ  P      OOO   OOO    TT  
 \x1b[1;97m     
 ________________(-BRAND-)_________________
-\x1b[1;95m╔════════════════════════════════════════════════╗
+\x1b[1;95m╔══════════════════════════════════════════════╗
 \x1b[1;95m║\x1b[1;97m                ✦  𝗧𝗢𝗢𝗟 I𝗡𝗙𝗢 𝗣𝗔𝗡𝗘𝗟  ✦                  \x1b[1;95m          
-\x1b[1;95m╚════════════════════════════════════════════════╝
+\x1b[1;95m╚══════════════════════════════════════════════╝
 \x1b[1;96m   ➤ \x1b[1;97mCreator        : \x1b[1;96mADNAN RAJPOOT
 \x1b[1;96m   ➤ \x1b[1;97mOperated By    : \x1b[1;92mPRINCE RAJPOOT 
 \x1b[1;96m   ➤ \x1b[1;97mTool Access    : \x1b[1;93mPAID
 \x1b[1;96m   ➤ \x1b[1;97mFacebook       : \x1b[1;91mprince.rajpoot.0077
 \x1b[1;96m   ➤ \x1b[1;97mWhatsApp       : \x1b[1;99m+923306346604
-\x1b[1;96m   ➤ \x1b[1;97mCurrent Version: \x1b[1;95m3.0.2
+\x1b[1;96m   ➤ \x1b[1;97mCurrent Version: \x1b[1;95m3.0.3
 \x1b[1;92m──────────────────────────────────────────────────''')
 
 def linex():
@@ -494,4 +494,5 @@ if __name__ == '__main__':
         sys.exit()
     except Exception as e:
         print(f'\n\x1b[91;1m   ➤ Error: {str(e)}\x1b[97;1m')
+
         sys.exit()
